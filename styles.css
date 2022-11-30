@@ -1,0 +1,23 @@
+table{
+    background-color: #21b6A8;
+    border-radius: 15px;
+    border-collapse: separate;
+    border: 5px solid;
+}
+tr,td{
+border-radius: 8px;
+padding: 10px;
+}
+input,button{
+    border-radius: 5px;
+    width: 85px;
+}
+select{
+    border-radius: 5px;
+    width: 85px;
+    height: 20px;
+}
+body{
+    background-image: linear-gradient(rgba(12,3,51,0.3),rgba(12,3,51,0.3)), url('static/back.jpg');
+    background-size: cover;
+}
